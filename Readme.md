@@ -27,13 +27,12 @@ DigitalLibrary/
 ## Prerequisites
 Before running the application, ensure you have the following installed:
 - [Java JDK 8+](https://www.oracle.com/java/technologies/javase-downloads.html)
-- [Maven](https://maven.apache.org/) (if using Maven for dependencies)
 - A Java IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code)
 
 ## Setup Instructions
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-repository/digital-library-system.git
+git clone https://github.com/Adityagautam50009/digital-library-system.git
 cd digital-library-system
 ```
 
@@ -65,9 +64,6 @@ Or, if using an IDE:
 - Implement a file/database storage system for persistent data.
 - Add user authentication for role-based access.
 - Create a graphical user interface (GUI) using JavaFX or Swing.
-
-## License
-This project is open-source and licensed under the **MIT License**.
 
 ## Contributing
 If you'd like to contribute, feel free to fork the repository and submit a pull request!
